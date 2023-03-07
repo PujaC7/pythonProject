@@ -1,0 +1,5 @@
+name = input("enter the original string: ")
+print("original string is: ")
+print(name)
+print("\n converted string is: ")
+print(name.lower())
